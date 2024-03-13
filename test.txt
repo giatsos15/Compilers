@@ -1,0 +1,27 @@
+program giatsos
+{	
+	declare t1,p;
+	function giorgos(in p, in h, inout k)
+	{
+		if(p>h)
+			then
+			print(test)
+		else
+			return(k+1)
+	}
+	procedure pep(in q, inout g)
+	{
+		while(q>=g)
+			call giorgos(q,g)
+	}
+		
+
+
+
+
+
+
+}
+
+
+
